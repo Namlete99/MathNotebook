@@ -34,7 +34,7 @@ Về mặt lịch sử, bài toán chia ba một góc không có nguồn gốc, 
 
 Có thể là vì một lí do cơ bản rằng, so với hai bài toán dựng hình còn lại là cầu phương hình tròn và gấp đôi thể tích hình lập phương, thì bài toán chia ba một góc này lại vô cùng dễ hiểu hơn, nhờ tính đơn giản bề ngoài mà đề bài yêu cầu:
 
-"Cho hai điểm A,B tùy ý trên đường tròn tâm O. Tìm điểm C trên cung AB sao cho ∠AOC = 1/3 ∠AOB"
+> "Cho hai điểm A,B tùy ý trên đường tròn tâm O. Tìm điểm C trên cung AB sao cho $\widehat{AOC} = \frac{1}{3}.\widehat{AOB}$"
 
 Chính vì thế, mà tính trực quan dễ dàng nảy sinh trong suy nghĩ của chúng ta ngay từ lần đầu tiếp xúc với bài toán. Hơn nữa, với việc các nhà toán học Hy Lạp khi đó đã biết cách dựng hình bằng thước và compa để chia một góc bất kì thành hai góc bằng nhau (hay ta còn gọi là dựng phân giác một góc), càng làm cơ sở cho nhiều nhà toán học tự tin vào bản thân, có thể hoàn toàn tìm ra lời giải khả thi cho bài toán một cách nhanh gọn và chính xác.
 
