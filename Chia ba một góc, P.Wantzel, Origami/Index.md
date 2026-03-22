@@ -296,6 +296,8 @@ Với một tờ giấy bất kì có hình dạng là một hình vuông hoặc
 
 Tiên đề origami tập hợp gồm bảy tiên đề khác nhau, được khám phá để mô tả origami hình học. Bản tuyên bố hoàn chỉnh đầu tiên về bảy tiên đề này được nhà toán học và nghệ nhân gấp giấy người Pháp Jacques Justin đưa ra vào năm 1986. Tuy nhiên, chúng không được chú ý cho đến khi sáu tiên đề đầu tiên được hai nhà toán học là Humiaki Huzita và Benedetto Scimemi trình bày tại hội nghị quốc tế đầu tiên về khoa học và công nghệ origami (The first International Meeting of Origami Science and Technology), được tổ chức vào năm 1989 tại Ferrara, Ý. Và vào năm 2001, nhà toán học Koshiro Hatori mới tái phát hiện lại tiên đề thứ bảy mà nhà toán học Jacques Justin từng tìm ra trước đó.
 
+. . . . . 
+
 <!--(. . . . . . Phát triển tiên đề  lý thuyết)
 (. . . . . . Kết quả từ Origami hình học.)
 (. . . . . . Việc sử dụng Origami đã giúp chúng ta mở rộng trường để giải quyết chia ba một góc qua số nguyên tố pierpont)
