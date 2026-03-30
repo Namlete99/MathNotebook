@@ -122,7 +122,7 @@ Vì $x_1 \ne x_3$ $(-1 \ne 1)$ mà kéo theo $f(x_1) = f(x_3)$, nên $f: \R \to 
 
 Vì ánh xạ $f: \R \to [0;\infin], x \to x^2$  chỉ là **toàn ánh** mà không phải là **toàn ánh**, nên ánh xạ này không phải là ***song ánh***.
 
-<u>**Ví dụ 2.6**:</u>: Cho $f: [0;\infin] \to [0;\infin], x \to x^2$
+<u>**Ví dụ 2.6**</u>: Cho $f: [0;\infin] \to [0;\infin], x \to x^2$
 
 Với $x_1 = 1 \isin [0;\infin]$ ta được $y_1 = f(x_1) = 1^2 = 1 \isin [0;\infin]$
 
@@ -150,7 +150,38 @@ Vì ánh xạ $f: [0;\infin] \to [0;\infin], x \to x^2$ vừa là **đơn ánh**
 
 ### 5. Phép thế và dấu của phép thế
 
-. . .
+**Định nghĩa 5.1 (phép thế)**: Cho n là một số nguyên dương. Mỗi song ánh từ tập hợp $X = \set{1, 2, ..., n}$ vào chính nó được gọi là một phép thế cấp n. 
+
+Một phép thế cấp n còn được gọi là một phép thế bậc n hoặc là một hoán vị bậc n.
+
+Phép thế được kí hiệu bởi chữ cái Hy Lạp: $\sigma$, $\tau$, ...
+
+Tập hợp các phép cấp n được kí hiệu là $S_n$. Số các phép cấp n là $n!$. 
+
+Một phép thế $\sigma$ cấp n được biểu diễn dưới dạng một bằng gồm hai dòng: 
+
+$$\sigma = \begin{pmatrix}
+1 & 2 & \ldots & n\\
+\sigma(1) & \sigma(2) & \ldots & \sigma(n)\\
+\end{pmatrix}
+$$
+
+**Ví dụ 5.2**: Cho một ma trận vuông cỡ 2x2. Ma trận vuông 2x2 này có 2! = 2 phép thế cấp 2, đó là 
+
+$ \sigma_1 = 
+\begin{pmatrix}
+   1 & 2 \\
+   1 & 2
+\end{pmatrix} 
+$,
+$ \sigma_2 = 
+\begin{pmatrix}
+   1 & 2 \\
+   2 & 1
+\end{pmatrix}
+$ 
+
+**Định nghĩa 5.3 (dấu phép thế)**:   
 
 ***
 
@@ -160,13 +191,19 @@ Vì ánh xạ $f: [0;\infin] \to [0;\infin], x \to x^2$ vừa là **đơn ánh**
 
 ***
 
-### 7. Hạng của ma trận
+### 7. Khai triển Laplace
+
+. . .
+
+***
+
+### 8. Hạng của ma trận
 
 . . . 
 
 ***
 
-### 8. Hệ phương trình tuyến tính
+### 9. Hệ phương trình tuyến tính
 
 . . .
 
