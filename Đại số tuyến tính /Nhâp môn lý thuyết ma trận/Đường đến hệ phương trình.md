@@ -68,10 +68,24 @@ với $P(x)$ là tính chất của phần tử thuộc tập hợp X.
 
 Để mô tả tập hợp một cách trực quan, người ta biểu diễn mỗi tập hợp bởi các điểm nằm trong một vòng phẳng mà ta gọi là biểu đồ Ven.
 
+***
+
 ### 2. Ánh xạ 
 
 Để nghiên cứu mối quan hệ giữa hai tập hợp, ta tập trung tìm hiểu các quy tắc cho tương ứng mỗi phần tử của tập hợp này với mỗi phần tử của tập hợp kia. Một lớp quy tắc như thế dẫn đến định nghĩa như sau.
 
-**Định nghĩa 2.1**: Cho $X$ và $Y$ là hai tập hợp khác rỗng.
+**Định nghĩa 2.1**: Cho $X$ và $Y$ là hai tập hợp khác rỗng. Một ánh xạ $f$ từ $X$ đến $Y$ là một quy tắc cho tương ứng mỗi phần tử $x \isin X$ với một và chỉ một phần tử $y \isin Y$. Phần tử $x$ được gọi là tạo ảnh của phần tử $y$ qua ánh xạ $f$. Phần tử $y$ được gọi là ảnh của phần tử $x$ qua ánh xạ $f$ và kí hiệu là $f(x)$.
+
+Ánh xạ $f$ từ $X$ đến $Y$ được kí hiệu là: 
+
+> $$f: X \to Y, x \mapsto y = f(x)$$
+
+Tập $X$ được gọi là tập nguồn hay tập xác định của ánh xạ $f$. Tập $Y$ được gọi là tập đích.
+
+**Ví dụ 2.2**: 
+
+> Ánh xạ $f: \R \to \R, x \mapsto x^2. Vì f(2) = f(-2) = 2^2 = (-2)^2 = 4$ nên 4 là ảnh của 2 và -2. Còn 2 và -2 đều là tạo ảnh của 4.
+
+Từ **định nghĩa 2.1** về ánh xạ, ta có các khái niệm về đơn ánh, toàn ánh, song ánh. 
 
 </div>
