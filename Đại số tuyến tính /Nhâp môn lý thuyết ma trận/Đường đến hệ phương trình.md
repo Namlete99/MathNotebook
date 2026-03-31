@@ -31,7 +31,7 @@ Tập hợp thường được kí hiểu bởi các chữ cái in hoa, chẳng 
 
 Tập hợp các số tự nhiên: $\N$
 
-Tập hợp các số nguyên: $\Z$
+Tập hợp các số thực: $\mathbb{R}$
 
 Nếu phần tử $x$ thuộc tập hợp $X$ thì ta kí hiệu là x $\isin$ X. Nếu phần tử $x$ không thuộc tập hợp $X$ thì ta kí hiệu là $x$ $\notin$ $X$. 
 
