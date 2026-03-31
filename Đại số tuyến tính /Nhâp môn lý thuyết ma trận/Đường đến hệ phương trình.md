@@ -231,7 +231,7 @@ Vì cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là chẵn, 
 
 **Định nghĩa 6.1**: Giả sử $A = (a_{ij})_{n \times n} $ là một ma trận vuông cấp $n$ với các phần tử là số thực hoặc số phức. Định thức của ma trận A, kí hiệu là $det(A)$ hoặc $|A|$ được cho bởi: 
 
-$$\det(A) = \sum_{\mathclap{\sigma \in S_n}} \operatorname{sgn}(\sigma) \prod_{k=1}^{n} a_{k, \sigma(k)}$$
+$$\det(A) = \sum_{\mathclap{\sigma \in S_n}} sgn(\sigma) \prod_{k=1}^{n} a_{k, \sigma(k)}$$
 
 ***
 
