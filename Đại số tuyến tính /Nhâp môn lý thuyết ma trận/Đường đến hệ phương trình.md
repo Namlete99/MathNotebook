@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Đường đến giải hệ phương trình "
+excerpt-separator: <!--more-->
+author: "Nguyễn Lê Nam"
+---
+
 # Đường đến giải hệ phương trình 
 
 <div align="justify">
@@ -183,7 +190,42 @@ $
 
 **Định nghĩa 5.3 (dấu phép thế)**:   
 
+> Cho $\sigma \isin S_n$. Dấu của $\sigma$, kí hiệu là $sgn(\sigma)$, được xác định bởi 
+
+$$sgn(\sigma) = \prod_{\mathclap{1\le i\le j\le n}}\frac{\sigma(j) - \sigma(i)}{j - i} \isin \set{\pm 1 } $$
+
+Phép thế $\sigma$ được gọi là phép thế ***chẵn**** nếu $sgn(\sigma) = 1$. Nếu $sgn(\sigma) = -1$ thì phép thế $\sigma$ được gọi là phép thế ***lẻ***. 
+
+**Ví dụ 5.4**: Cho một phép thế cấp 6 sau: 
+
+$\sigma = \begin{pmatrix}
+   1 & 2 & 3 & 4 & 5 & 6\\
+   5 & 1 & 4 & 2 & 3 & 6
+\end{pmatrix}$
+
+
+Phép thế này là chẵn hay lẻ ? 
+
+Bằng cách áp dụng công thức dấu của phép thế từ **định nghĩa 5.3** trên ta được: 
+
+$$ sgn(\sigma) = \prod_{\mathclap{1\le i\le j\le 6}}\frac{\sigma(j) - \sigma(i)}{j - i} = (\frac{1-5}{2-1}.\frac{4-5}{3-1}.\frac{2-5}{4-1}.\frac{3-5}{5-1}.\frac{6-5}{6-1}).(\frac{4-1}{3-2}.\frac{2-1}{4-2}.\frac{3-1}{5-2}.\frac{6-1}{6-2}).(\frac{2-4}{4-3}.\frac{3-4}{5-3}.\frac{6-4}{6-3}).(\frac{3-2}{5-4}.\frac{6-4}{6-4}).(\frac{6-3}{6-5}) = 1 $$
 ***
+
+Vì dấu của phép thế $\sigma$, $sgn(\sigma) = 1$, nên đây là phép thế ***chẵn***. 
+
+Từ **định nghĩa 5.3** về dấu của phép thế trên, ta có một cách khác để tính dấu của phép thế. Nhưng trước tiên ta cần tìm hiểu về ***nghịch thế***.
+
+**Định nghĩa 5.5**: Cho $f: X \to X$ là phép thế cấp n, với $X = \set{1, 2, ..., n}$: 
+
+> (i) Cặp $(\sigma(i), \sigma(j))$ với $1 \le i < j \le n$ được gọi là nghịch thế nếu $\sigma(i) > \sigma(j)$
+
+> (ii) Nếu cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là chẵn thì phép thế $\sigma$ được gọi là phép thế ***chẵn*** và ta có được dấu phép thế $sgn(\sigma) = 1$. Còn cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là lẻ thì phép thế $\sigma$ được gọi là phép thế ***lẻ**** ta có được dấu phép thế $sgn(\sigma) = -1$. 
+
+Áp dụng **định nghĩa 5.5** vào lại **ví dụ 5.4** trên ta được: 
+
+$(\sigma(i), \sigma(j)) = \set{(5,4);(5,1);(5,2); (5,3); (4,2); (4,3)}$
+
+Vì cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là chẵn, nên theo **(ii)** của **định nghĩa 5.5**, phép thế $\sigma$ là phép thế chẵn, có dấu của phép thế $sgn(\sigma) = 1$.
 
 ### 6. Định thức
 
