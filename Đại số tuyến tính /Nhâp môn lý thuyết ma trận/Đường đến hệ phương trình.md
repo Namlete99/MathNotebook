@@ -233,8 +233,8 @@ Vì cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là chẵn, 
 
 $$\det(A) = \sum_{\mathclap{\sigma \in S_n}} sgn(\sigma) \prod_{k=1}^{n} a_{k, \sigma(k)}$$
 
+trong đó tổng ở vế phải được lấy trên tập $S_n$ tất cả các phép thế $\sigma$ cấp n.
 
-$$\det(A) = \sum_{\sigma \in S_n} \operatorname{sgn}(\sigma) \prod_{k=1}^n a_{k, \sigma(k)}$$
 ***
 
 ### 7. Khai triển Laplace
