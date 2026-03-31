@@ -219,7 +219,7 @@ Từ **định nghĩa 5.3** về dấu của phép thế trên, ta có một cá
 
 > (i) Cặp $(\sigma(i), \sigma(j))$ với $1 \le i < j \le n$ được gọi là nghịch thế nếu $\sigma(i) > \sigma(j)$
 
-> (ii) Nếu cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là chẵn thì phép thế $\sigma$ được gọi là phép thế ***chẵn*** và ta có được dấu phép thế $sgn(\sigma) = 1$. Còn cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là lẻ thì phép thế $\sigma$ được gọi là phép thế ***lẻ**** ta có được dấu phép thế $sgn(\sigma) = -1$. 
+> (ii) Nếu cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là chẵn thì phép thế $\sigma$ được gọi là phép thế ***chẵn*** và ta có được dấu phép thế $sgn(\sigma) = 1$. Còn cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là lẻ thì phép thế $\sigma$ được gọi là phép thế ***lẻ*** ta có được dấu phép thế $sgn(\sigma) = -1$. 
 
 Áp dụng **định nghĩa 5.5** vào lại **ví dụ 5.4** trên ta được: 
 
