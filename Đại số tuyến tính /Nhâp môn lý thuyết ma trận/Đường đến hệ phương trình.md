@@ -103,43 +103,43 @@ Từ **định nghĩa 2.1** về ánh xạ, ta có các khái niệm về đơn 
 
 > (iii) Ánh xạ $f$ được gọi là ***song ánh*** nếu ánh xạ $f$ vừa là ***đơn ánh*** và đồng thời cũng là ***toàn ánh***.
 
-**Ví dụ 2.4**: Cho $f: [0;\infin] \to \R, x \mapsto x^2$
+**Ví dụ 2.4**: Cho $f: [0;\infty] \to \R, x \mapsto x^2$
 
-Với $x_1 = 1 \isin [0;\infin]$ ta được $y_1 = f(x_1) = 1^2 = 1 \isin \R$
+Với $x_1 = 1 \isin [0;\infty]$ ta được $y_1 = f(x_1) = 1^2 = 1 \isin \R$
 
-Với $x_2 = 2 \isin [0;\infin]$ ta được  $y_2 = f(x_2) = 2^2 =4 \isin \R$
+Với $x_2 = 2 \isin [0;\infty]$ ta được  $y_2 = f(x_2) = 2^2 =4 \isin \R$
 
-Vì $x_1 \ne x_2$ $(1 \ne 2)$ kéo theo $f(x_1) \ne f(x_2)$ $(1 \ne 4)$ nên $f: [0;\infin] \to \R, x \to x^2$ là ***đơn ánh***.
+Vì $x_1 \ne x_2$ $(1 \ne 2)$ kéo theo $f(x_1) \ne f(x_2)$ $(1 \ne 4)$ nên $f: [0;\infty] \to \R, x \to x^2$ là ***đơn ánh***.
 
-Với $y = -1$, $\nexists x \isin [0;\infin]$ sao cho $x^2 = -1$. Vậy nên $f: [0;\infin] \to \R, x \to x^2$ không là ***toàn ánh***.
+Với $y = -1$, $\nexists x \isin [0;\infin]$ sao cho $x^2 = -1$. Vậy nên $f: [0;\infty] \to \R, x \to x^2$ không là ***toàn ánh***.
 
-Vì ánh xạ $f: [0;\infin] \to \R, x \to x^2$  chỉ là **đơn ánh** mà không phải là **toàn ánh**, nên ánh xạ này không phải là ***song ánh***.
+Vì ánh xạ $f: [0;\infty] \to \R, x \to x^2$  chỉ là **đơn ánh** mà không phải là **toàn ánh**, nên ánh xạ này không phải là ***song ánh***.
 
-<u>**Ví dụ 2.5**</u>: Cho $f: \R \to [0; \infin], x \mapsto x^2$
+<u>**Ví dụ 2.5**</u>: Cho $f: \R \to [0; \infty], x \mapsto x^2$
 
-Với $x_1 = -1 \isin \R$ ta được $y_1 = f(x_1) = (-1)^2 = 1 \isin [0;\infin]$
+Với $x_1 = -1 \isin \R$ ta được $y_1 = f(x_1) = (-1)^2 = 1 \isin [0;\infty]$
 
-Với $x_2 = \sqrt{2} \isin \R$ ta được $y_2 = f(x_2) = (\sqrt{2})^2 = 2 \isin [0;\infin]$
+Với $x_2 = \sqrt{2} \isin \R$ ta được $y_2 = f(x_2) = (\sqrt{2})^2 = 2 \isin [0;\infty]$
 
-Vậy $\exist x\isin \R$ để $y = f(x) = x^2$, nên $f: \R \to [0; \infin], x \mapsto x^2$ là ***toàn ánh***.
+Vậy $\exist x\isin \R$ để $y = f(x) = x^2$, nên $f: \R \to [0; \infty], x \mapsto x^2$ là ***toàn ánh***.
 
-Với $x_3 = 1 \isin \R$ ta được $y_3 = f(x_3) = 1^2 = 1 \isin [0;\infin]$ 
+Với $x_3 = 1 \isin \R$ ta được $y_3 = f(x_3) = 1^2 = 1 \isin [0;\infty]$ 
 
-Vì $x_1 \ne x_3$ $(-1 \ne 1)$ mà kéo theo $f(x_1) = f(x_3)$, nên $f: \R \to [0; \infin], x \mapsto x^2$ không là ***đơn ánh***.
+Vì $x_1 \ne x_3$ $(-1 \ne 1)$ mà kéo theo $f(x_1) = f(x_3)$, nên $f: \R \to [0; \infty], x \mapsto x^2$ không là ***đơn ánh***.
 
-Vì ánh xạ $f: \R \to [0;\infin], x \to x^2$  chỉ là **toàn ánh** mà không phải là **toàn ánh**, nên ánh xạ này không phải là ***song ánh***.
+Vì ánh xạ $f: \R \to [0;\infty], x \to x^2$  chỉ là **toàn ánh** mà không phải là **toàn ánh**, nên ánh xạ này không phải là ***song ánh***.
 
-<u>**Ví dụ 2.6**</u>: Cho $f: [0;\infin] \to [0;\infin], x \to x^2$
+<u>**Ví dụ 2.6**</u>: Cho $f: [0;\infty] \to [0;\infty], x \to x^2$
 
-Với $x_1 = 1 \isin [0;\infin]$ ta được $y_1 = f(x_1) = 1^2 = 1 \isin [0;\infin]$
+Với $x_1 = 1 \isin [0;\infty]$ ta được $y_1 = f(x_1) = 1^2 = 1 \isin [0;\infty]$
 
-Với $x_2 = 2 \isin [0;\infin]$ ta được  $y_2 = f(x_2) = 2^2 =4 \isin [0;\infin]$
+Với $x_2 = 2 \isin [0;\infty]$ ta được  $y_2 = f(x_2) = 2^2 =4 \isin [0;\infty]$
 
-Vì $x_1 \ne x_2$ $(1 \ne 2)$ kéo theo $f(x_1) \ne f(x_2)$ $(1 \ne 4)$ nên $f: [0;\infin] \to \R, x \to x^2$ là ***đơn ánh***.
+Vì $x_1 \ne x_2$ $(1 \ne 2)$ kéo theo $f(x_1) \ne f(x_2)$ $(1 \ne 4)$ nên $f: [0;\infty] \to \R, x \to x^2$ là ***đơn ánh***.
 
-Hơn nữa, $\exist x \isin [0;\infin]$ để $y = f(x) = x^2$, nên $f: [0;\infin] \to [0; \infin], x \mapsto x^2$ là ***toàn ánh***.
+Hơn nữa, $\exist x \isin [0;\infty]$ để $y = f(x) = x^2$, nên $f: [0;\infty] \to [0; \infty], x \mapsto x^2$ là ***toàn ánh***.
 
-Vì ánh xạ $f: [0;\infin] \to [0;\infin], x \to x^2$ vừa là **đơn ánh** và cũng là vừa **toàn ánh** nên ánh xạ này là ***song ánh***.
+Vì ánh xạ $f: [0;\infty] \to [0;\infty], x \to x^2$ vừa là **đơn ánh** và cũng là vừa **toàn ánh** nên ánh xạ này là ***song ánh***.
 
 *** 
 
@@ -229,7 +229,9 @@ Vì cặp $(\sigma(i), \sigma(j))$ có số lượng nghịch thế là chẵn, 
 
 ### 6. Định thức
 
-. . . 
+**Định nghĩa 6.1**: Giả sử $A = (a_{ij})_{n \times n} $ là một ma trận vuông cấp $n$ với các phần tử là số thực hoặc số phức. Định thức của ma trận A, kí hiệu là $det(A)$ hoặc $|A|$ được cho bởi: 
+
+$$\det(A) = \sum_{\mathclap{\sigma \in S_n}} \operatorname{sgn}(\sigma) \prod_{k=1}^{n} a_{k, \sigma(k)}$$
 
 ***
 
