@@ -20,9 +20,9 @@
 //$accent-color: #3CA2A2;    // original =)
 //$accent-color: #C38FD6;  // velvet
 //$accent-color: #8FD6B3;  // greenish
-$accent-color: #de7a2d;  // bluish
+//accent-color: #de7a2d;  // bluish
 //$accent-color: #cdde4e;  // yellowish
-//$accent-color: #52B54B;  // green
+$accent-color: #52B54B;  // green
 
 $font-color: #dddddd;
 $background-color: #292929;
@@ -47,9 +47,6 @@ body {
   border-radius: 6px;
   padding: 80px;
   font-size: 14px;
-}
-.main-page {
-  width: 20%;
 }
 
 h1 { font-size: 2em; }
