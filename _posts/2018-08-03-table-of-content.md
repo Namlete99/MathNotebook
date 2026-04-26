@@ -1,16 +1,32 @@
 ---
 layout: post
-title: Table of content
+title: Test toán học 
 date:   2018-08-03 11:07
 description: For some big articles you can use table on content
 math: true
 toc: true
 ---
 
-Phương trình bậc 2 một ẩn:
+# Các phương trình ngắn
+
+The mathematics powered by [**MathJax**](https://www.mathjax.org/):
 
 $$
-x^2 + a \cdot x + b = 0
+\begin{equation}
+  \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6}
+  \label{eq:series}
+\end{equation}
 $$
 
-Phương trình nổi tiếng của Einstein: $E = m \cdot c^2$ $x \in \mathbb{N}$
+We can reference the equation as \eqref{eq:series}.
+
+When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
+
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+# Kí hiệu toán học 
+
+$x \in \mathbb{N}$
+
+# Các phương trình dài dòng
+
