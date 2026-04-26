@@ -19,8 +19,8 @@
 // Several accent colors, choose one or create your own!
 //$accent-color: #3CA2A2;    // original =)
 //$accent-color: #C38FD6;  // velvet
-//$accent-color: #8FD6B3;  // greenish
-$accent-color: rgb(234, 160, 22) ;  // bluish
+$accent-color: #5deb70;  // greenish
+//accent-color: rgb(234, 160, 22) ;  // bluish
 //accent-color: #cdde4e;  // yellowish
 //$accent-color: #52B54B;  // green
 
@@ -44,8 +44,9 @@ body {
 .card {
   background-color: $post-panel-color;
   box-shadow: 0 0 0 0, 0 8px 16px rgba(0, 0, 0, 0.2);
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 80px;
+  width:900px;
   font-size: 14px;
 }
 
@@ -53,12 +54,10 @@ body {
   width: 100%;
 }
 
-h1 { font-size: 2em; }
-h2 { font-size: 1.5em; }
-h3 { font-size: 1.17em; }
-h4 { font-size: 1.12em; }
-h5 { font-size: .83em; }
-h6 { font-size: .75em; }
+h1 { font-size: 20px; }
+h2 { font-size: 18px; }
+h3 { font-size: 16px; }
+h4 { font-size: 14px; }
 
 img {
   display: inline-block;
@@ -80,7 +79,7 @@ blockquote {
 }
 
 a {
-  color: #1e58e0;
+  color:#5deb70;
 }
 
 //********************************************************
