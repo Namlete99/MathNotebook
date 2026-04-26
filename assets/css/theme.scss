@@ -21,8 +21,8 @@
 //$accent-color: #C38FD6;  // velvet
 //$accent-color: #8FD6B3;  // greenish
 //$accent-color: #35B4DE;  // bluish
-$accent-color: #D2E354;  // yellowish
-//$accent-color: #52B54B;  // green
+//accent-color: #D2E354;  // yellowish
+$accent-color: #52B54B;  // green
 
 $font-color: #dddddd;
 $background-color: #292929;
@@ -45,7 +45,7 @@ body {
   background-color: $post-panel-color;
   box-shadow: 0 0 0 0, 0 8px 16px rgba(0, 0, 0, 0.2);
   border-radius: 6px;
-  padding: 80px;
+  padding: 100px;
   font-size: 14px;
 }
 .main-page {

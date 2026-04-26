@@ -150,3 +150,8 @@ p > code,
 .gd { color: $operators; } /* Generic.Deleted & Diff Deleted */
 .gi { color: $names; } /* Generic.Inserted & Diff Inserted */
 .l-Scalar-Plain {color: $names}
+
+.MathJax, .MathJax_Display {
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+}
