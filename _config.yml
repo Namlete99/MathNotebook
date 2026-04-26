@@ -8,7 +8,7 @@ url: http://streetturtle.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: '/MathNoteBook'
+baseurl: '/jekyll-clean-dark'
 
 author: Namlete
 copyright: 2026
@@ -24,8 +24,9 @@ share:
 social:
   github: streetturtle
   stackoverflow: ''
-  facebook:
+  linkedin:
   instagram: ''
+  lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
