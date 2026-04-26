@@ -16,6 +16,14 @@
 //                    Variables
 //********************************************************
 
+// Several accent colors, choose one or create your own!
+//$accent-color: #3CA2A2;    // original =)
+//$accent-color: #C38FD6;  // velvet
+//$accent-color: #8FD6B3;  // greenish
+$accent-color: rgb(234, 160, 22) ;  // bluish
+//accent-color: #cdde4e;  // yellowish
+//$accent-color: #52B54B;  // green
+
 $font-color: #dddddd;
 $background-color: #292929;
 $post-panel-color: #39393a;
@@ -29,7 +37,7 @@ $background-pattern: 'random-grey-variations.png';
 //                  Common styles
 //********************************************************
 body {
-  color:rgb(56, 109, 234) ;
+  color: $font-color;
   background: $background-color url(pics/background/potw1428a.jpg);
   font-family: 'Times New Roman', Times, serif;
 }
@@ -72,7 +80,7 @@ blockquote {
 }
 
 a {
-  color:rgb(238, 157, 5) ;
+  color: #1e58e0;
 }
 
 //********************************************************
