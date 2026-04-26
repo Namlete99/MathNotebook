@@ -448,15 +448,10 @@ table.inner-borders {
 
 .MathJax {
   display:block;
+  position: relative;
+  margin: 0;
+  padding: 1em;
   overflow-x: auto;
-  overflow-y: hidden;
-  height: 10px;
+  height: 30px;
   max-width: 100%;
 }
-
-/*mjx-container[display] {
-  display: block;
-  overflow-x: auto;
-  overflow-y: hidden;
-  max-width: 100%;
-}*/
