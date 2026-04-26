@@ -19,7 +19,7 @@
 // Several accent colors, choose one or create your own!
 //$accent-color: #3CA2A2;    // original =)
 //$accent-color: #C38FD6;  // velvet
-$accent-color: #5deb70;  // greenish
+$accent-color: #15a92b;  // greenish
 //accent-color: rgb(234, 160, 22) ;  // bluish
 //accent-color: #cdde4e;  // yellowish
 //$accent-color: #52B54B;  // green
@@ -447,8 +447,14 @@ table.inner-borders {
 
 
 .MathJax {
+  position: relative;
+  margin: 0;
+  padding: 1em;
+  margin: 0;
+  padding: 1em;
   overflow-x: auto;
   overflow-y: hidden;
+  height: 10px;
   max-width: 100%;
 }
 
