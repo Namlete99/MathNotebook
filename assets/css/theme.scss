@@ -17,11 +17,11 @@
 //********************************************************
 
 // Several accent colors, choose one or create your own!
-$accent-color: #3CA2A2;    // original =)
+//$accent-color: #3CA2A2;    // original =)
 //$accent-color: #C38FD6;  // velvet
 //$accent-color: #8FD6B3;  // greenish
 //$accent-color: #35B4DE;  // bluish
-//$accent-color: #D2E354;  // yellowish
+$accent-color: #D2E354;  // yellowish
 //$accent-color: #52B54B;  // green
 
 $font-color: #dddddd;
@@ -45,7 +45,7 @@ body {
   background-color: $post-panel-color;
   box-shadow: 0 0 0 0, 0 8px 16px rgba(0, 0, 0, 0.2);
   border-radius: 6px;
-  padding: 60px;
+  padding: 80px;
   font-size: 14px;
 }
 .main-page {

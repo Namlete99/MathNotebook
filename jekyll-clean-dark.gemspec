@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-clean-dark"
   spec.version       = "0.1.3"
-  spec.authors       = ["Pavel Makhov"]
-  spec.email         = ["streetturtle@gmail.com"]
+  spec.authors       = ["Namlete"]
+  spec.email         = ["ruicostanam91@gmail.com"]
 
   spec.summary       = %q{Customizable dark theme for Jekyll.}
   spec.description   = "Customizable dark theme for Jekyll. Supports tags, comments, analytics, share buttons."
