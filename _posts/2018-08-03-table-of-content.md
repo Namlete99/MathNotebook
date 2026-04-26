@@ -3,6 +3,7 @@ layout: post
 title: Test toán học 
 date:   2018-08-03 11:07
 description: For some big articles you can use table on content
+tag: math
 math: true
 toc: true
 ---

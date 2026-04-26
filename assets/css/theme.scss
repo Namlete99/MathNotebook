@@ -38,13 +38,14 @@ $background-pattern: 'random-grey-variations.png';
 //********************************************************
 body {
   color: $font-color;
-  background: $background-color url(pics/background/#{$background-pattern});
+  background: $background-color url(pics/background/potw1428a.jpg);
+  font-family: 'Times New Roman', Times, serif;
 }
 .card {
   background-color: $post-panel-color;
   box-shadow: 0 0 0 0, 0 8px 16px rgba(0, 0, 0, 0.2);
   border-radius: 6px;
-  padding: 20px;
+  padding: 60px;
   font-size: 14px;
 }
 .main-page {
