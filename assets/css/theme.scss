@@ -447,11 +447,7 @@ table.inner-borders {
 
 
 .MathJax {
-  position: relative;
-  margin: 0;
-  padding: 1em;
-  margin: 0;
-  padding: 1em;
+  display:block;
   overflow-x: auto;
   overflow-y: hidden;
   height: 10px;
