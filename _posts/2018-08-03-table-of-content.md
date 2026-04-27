@@ -53,3 +53,9 @@ $$
 \end{equation*}
 $$
 
+
+trong đó: 
+
++ \\\(D_{i_{1} \dots i_{k}}^{j_{1} \dots j_{k}}\\\) là định thức của ma trận vuông con cấp k, được xác định bởi các phần tử nằm trên giao của các dòng \\\(i_{1}, \dots , i_{k}\\\) và các cột \\\(j_{1}, \dots, j_{k}\\\).
+
++ \\\( (-1)^{i_{1} + \dots + i_{k} + j_{1} + \dots + j_{k}} \overline{D}_{i_{1} \dots i_{k}}^{j_{1} \dots j_{k}} \\\) là phần bù đại số của \\\(D_{i_{1} \dots i_{k}}^{j_{1} \dots j_{k}} \\\). Với \\\(\overline{D}_{i_{1} \dots i_{k}}^{j_{1} \dots j_{k}}\\\) được gọi là định thức con bù của ma trận vuông cấp \\\(n - k\\\), được xác định bởi các phần tử không nằm trên giao của các dòng \\\(i_{1}, \dots , i_{k}\\\) và các cột \\\(j_{1}, \dots, j_{k}\\\). 
