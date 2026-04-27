@@ -6,6 +6,7 @@ description: For some big articles you can use table on content
 tag: math
 math: true
 toc: true
+share: true
 ---
 
 # Các phương trình ngắn
@@ -52,7 +53,6 @@ $$
 \end{aligned}
 \end{equation*}
 $$
-
 
 trong đó: 
 
