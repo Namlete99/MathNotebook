@@ -1,8 +1,8 @@
 ---
 layout: page 
 title: About
-
 ---
 
-# Some info 
-...about how cool you are ;)
+# Nguyễn Lê Nam (Namlete) 
+
+một thằng lông bông sinh năm 2007. 

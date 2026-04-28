@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Test toán học 
-date:   2018-08-03 11:07
-description: For some big articles you can use table on content
-tag: math
+title: Test Mathjax
+date:   2026-01-02 11:07
+description: Thử viết toán học ở trên website. 
+tag: mathjax
 math: true
 toc: true
-share: true
 ---
 
 # Các phương trình ngắn

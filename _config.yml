@@ -37,7 +37,7 @@ disqus: Namlete99
 comments: true
 
 permalink: /:year/:month/:title/
-paginate: 8
+paginate: 10
 highlighter: rouge
 
 markdown: kramdown
