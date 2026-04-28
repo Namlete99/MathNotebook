@@ -36,12 +36,12 @@ Có những huyền thoại lãng mạn được lan truyền rộng rãi kiểu
 
 Ngoài sự hiệu quả của nó như một chất xúc tác cho sáng chế, việc truyền tải kiến thức thông qua chữ viết là thứ tạo nên con người chúng ta. Nó là chìa khóa cho tiến bộ của văn minh. Chúng ta đọc và học bởi vì chúng ta tìm thấy niềm vui khi làm thế, vì chúng ta là những người tồn tại quan tâm tới sự tồn tại không chỉ như mảnh vụn cô lập mà là một phần của nhân loại như một thể thống nhất. Như trong thơ nổi tiếng của John Donne,
 
-"Không có người nào là một hòn đảo riêng,
-chỉ mình nó với nó;
+***"Không có người nào là một hòn đảo riêng,***
+***chỉ mình nó với nó;***
 
-mọi con người là một mẩu của lục địa,
+***mọi con người là một mẩu của lục địa,***
 
-một phần của cái chính yếu." 
+***một phần của cái chính yếu."***
 
 Toán học là thú vị với tự cách một mức độ cực rất cao giữa những thành tựu của nhân loại, bởi vì nó có tính phổ quát có thể cho chúng ta cách bắc cầu và vượt qua những khác biệt không đáng kể về địa lý và lịch sử đã chia rẽ loài người. Nó là ngôn ngữ chung mà bộ não chúng ta đã tạo ra, thứ ngôn ngữ chèo lái tiến bộ khoa học và công nghệ và đồng thời là một nỗ lực nghệ thuật có tính triết lý sâu sắc.
 Thật sự, có một khía cạnh đặc biệt của toán học làm nó tách biệt với những lĩnh vực tri thức khác của con người. Nó hoạt động đồng thời dưới tư cách của một khoa học chính xác và cũng dưới tư cách một nghệ thuật. Trí tưởng tượng bay bổng, hình ảnh thơ mộng và trực quan cùng những cân nhắc thẩm mỹ thúc đẩy sự phát triển của toán học và sống kề cạnh với những quy luật nghiêm ngặt nhất của khoa học.
@@ -51,3 +51,5 @@ Thật đáng thương khi các nhà khoa học thần kinh cố gắng hiểu l
 Cố gắng hiểu toán học được tạo ra trong não bộ như thế nào sẽ là một cách tuyệt vời để khám phá ra nhiều hơn nữa những chức năng của não bộ tự nó, vì nó cung cấp một phổ các cách thức vận hành của sự sáng tạo và tưởng tượng cũng như sự vận dụng hình ảnh và kí hiệu, với một sự chú tâm được xác định rõ ràng và chính xác.
 
 Câu trả lời cuối cùng, nếu ai đó cần, cho câu hỏi là tại sao chúng ta làm toán, là do chúng ta tìm thấy niềm vui khi làm vậy. Nó là một phụ phẩm của tiến hóa bằng chọn lọc tự nhiên mà chúng ta chiết xuất ra sự vui thú từ việc làm những thứ có lợi cho sự sinh tồn của bộ gene chúng ta. Toán học có lợi cho giống loài chúng ta bởi vì những ứng dụng nó mang đến cho khoa học và công nghệ, nhưng đó không phải lý do chúng ta làm toán. Chúng ta không nghĩ về sự quan trọng của nó trong ứng dụng thực tiễn khi chúng ta thích thú sáng tạo những thứ toán học mới, cũng như chúng ta không nghĩ về tầm quan trọng của việc trộn lẫn DNA khi làm tình.
+
+![Matilde Marcolli]({{ '/assets/images/Matilde Marcolli.jpg' | relative_url }})
