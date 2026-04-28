@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức
-date:   2026-01-02 11:07
+date:   2025-08-04 11:07
 description: Toán học là một hoạt động tri thức, được cho là một trong những hoạt động tinh tế nhất từng được tạo ra bởi văn minh nhân loại. Hermann Hesse phác họa chân dung những hoạt động của các nhà toán học một cách ẩn dụ trong Glass Bead Game. Có lẽ đó là nỗ lực văn học tốt nhất dù chỉ một cái nhìn thoáng qua những hoạt động nội tại trong xã hội toán học. Người ta không phê phán một tác phẩm hư cấu bằng sự thiếu chính xác của nó, nhưng sẽ thực sự khó để nói cái gì đó có nghĩa về việc thế nào là làm toán.
 tag: writting
 ---
