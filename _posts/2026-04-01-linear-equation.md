@@ -3,7 +3,9 @@ layout: post
 title: Đường đến giải hệ phương trình tuyến tính bằng lý thuyết ma trận (Bản nháp)
 date:  2026-04-01 11:07
 description: Tổng hợp những phần kiến thức quan trọng để giải hệ phương trình tuyến tính trong môn đại số tuyến tính.
-tag: math, linear-algebra
+tag: 
+  - math
+  - linear-algebra
 toc: true
 ---
 
