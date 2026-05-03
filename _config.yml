@@ -18,10 +18,11 @@ share:
   email: true
 
 social:
-  github: Namlete99
+  github: ''
   stackoverflow: ''
-  facebook: 'https://www.facebook.com/namlete99/'
+  facebook: ''
   instagram: ''
+  blog: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
