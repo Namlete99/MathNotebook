@@ -29,6 +29,13 @@
     </li>
   {% endif %}
 
+<!-- blog -->
+  {% if site.social.blog %}
+    <li>
+      <a title="{{ site.social.blog }} on Instagram" href="https://namle-a6.github.io/Namleteblog.github.io/{{ site.social.blog}}" target="_blank"><i class="fa-solid fa-blog"></i></a>
+    </li>
+  {% endif %}
+
 <!-- rss -->
   {% if site.social.rss %}
     <li>
@@ -36,10 +43,4 @@
     </li>
   {% endif %}
 
-<!-- blog -->
-  {% if site.social.blog %}
-    <li>
-      <a title="{{ site.social.blog }} on Instagram" href="https://namle-a6.github.io/Namleteblog.github.io/{{ site.social.blog}}" target="_blank">fa-solid fa-blog</a>
-    </li>
-  {% endif %}
 </ul>
