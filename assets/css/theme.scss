@@ -244,7 +244,7 @@ nav {
   font-size: 18px;
   font-family:'Times New Roman', Times, serif;
   padding: 0 10px !important;
-  border-top: 3px #3CA2A2 solid;
+  border-top: 3px #15a92b solid;
   border-bottom: 1px #000000 solid;
   .navbar-brand, .nav-link {
    color: #777;
@@ -270,6 +270,20 @@ nav {
   .shrink .navbar-toggler {
     padding: 4px 5px;
     margin: 8px 15px 8px 0;
+  }
+  .navbar-image{
+    background-size: cover;
+    border-radius:50%;
+    width: 120px;
+    height: 120px;
+    padding: 18px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-box-shadow: 0 0 0 2px #fff, 0 0 0 3px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 0 0 2px #fff, 0 0 0 3px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+    box-shadow: 0 0 0 2px #fff, 0 0 0 3px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+    margin-top: 5px;
   }
 }
 
